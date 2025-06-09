@@ -13,4 +13,4 @@ steps:
 - script: mvn clean install
 
 
-- script: java -jar/target/*.jar
+- script: java -jar target/*.jar
